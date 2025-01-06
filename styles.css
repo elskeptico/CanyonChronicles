@@ -61,3 +61,7 @@ header p {
     font-size: 1.1rem; /* Slightly larger for readability */
     color: #495057;
 }
+
+.center-text {
+    text-align: center;
+}
