@@ -9,8 +9,8 @@ body {
 
 header {
     text-align: center;
-    background-color: #C10000;
-    color: #FF9900;
+    background-color: #FF9900;
+    color: #C10000;
     padding: 20px 10px;
 }
 
@@ -53,7 +53,7 @@ header p {
 .tile h2 {
     margin: 0 0 10px;
     font-size: 1.8rem; /* Slightly larger for emphasis */
-    color: #FF9900;
+    color: #C10000;
 }
 
 .tile p {
