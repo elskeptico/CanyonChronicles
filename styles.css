@@ -9,7 +9,7 @@ body {
 
 header {
     text-align: center;
-    background-color: #FF9900;
+    background-color: #343a40;
     color: #C10000;
     padding: 20px 10px;
 }
@@ -22,6 +22,7 @@ header h1 {
 header p {
     margin: 5px 0 0;
     font-size: 1.2rem;
+    color: #FF9900;
 }
 
 .tile-container {
