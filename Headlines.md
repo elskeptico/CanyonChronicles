@@ -4,3 +4,5 @@ Totally legit reports find reporter to be extremely sigma
 One-ear 'flex-pods' found to be real problem
 Battle of the Valley canceled due to complete lack of caring
 Teachers unable to understand newfangled 'krowm-books'
+Teacher disappointed in student in record time
+8th grade boy stubs toe, sues desk
