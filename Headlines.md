@@ -1,11 +1,25 @@
 #Headlines
-Mr. Hendee and alternate-universe 'Mr. Henry' get into fistfight
-Totally legit reports find reporter to be extremely sigma|x
-One-ear 'flex-pods' found to be real problem|x
-Battle of the Valley canceled due to complete lack of caring|x
-Teachers unable to understand newfangled 'krowm-books'
-Teacher disappointed in student in record time|nxt yr?
-8th grade boy stubs toe, sues desk
-Everyone gathers around to see fight solved peacefully without adult intervention
-Principal still terrifying
-Onlookers disappointed to see fight defused peacefully
+- Mr. Hendee and alternate-universe 'Mr. Henry' get into fistfight
+- Battle of the Valley canceled due to complete lack of caring|x
+- Teachers unable to understand newfangled 'krowm-books'
+- Teacher disappointed in student in record time|nxt yr?
+- 8th grade boy stubs toe, sues desk
+- Everyone gathers around to see fight solved peacefully without adult intervention
+- Principal still terrifying
+- Onlookers disappointed to see fight defused peacefully
+- Science teacher unquestionably correct
+- Declarations of unchanging rules and the changing of rules both very common
+- Student shocked to find that other people exist
+- Coloring with markers cardinal sin
+- Snow Rider 3D only still afloat thanks to Canyon Middle School students
+- Drawings on walls near locker room actually depiction of ancient was between Cocks, Dicks, and Johnsons
+- "Nobody has felt this way before!"
+- Students unable to read minds, teacher frustrated
+- Group chat will always eventually devolve into lewd insults
+- Student cannot for the life of them remember what year war of 1812 started
+- Slurs more common than apologies
+- What to know about the FitnessGram pacer test
+- "Why, i have no idea why Blocksi isn't working!"
+- Mr. Hendee blocks release of Condor Man files
+- Eighth-grade girl still unable to even
+- 20% of numbers no longer considered funny
