@@ -21,4 +21,4 @@
 - Mr. Hendee blocks release of Condor Man files
 - Eighth-grade girl still unable to even
 - 20% of numbers no longer considered funny
-- Crowd gathers to see fight, revolt when diffused peacefully
+- Crowd gathers to see fight, revolt when it diffused peacefully
