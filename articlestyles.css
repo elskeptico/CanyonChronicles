@@ -36,10 +36,9 @@ header a {
     margin: 40px auto;
     padding: 20px;
     background-color: #ffffff;
-    border-radius: 8px;
     line-height: 1.6;
     font-size: 1.3rem;
-    border-style: none none none double; 
+    border-style: none double none double; 
     border-color: #C10000;
 }
 
