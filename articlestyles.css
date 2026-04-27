@@ -36,6 +36,7 @@ header a {
     margin: 40px auto;
     padding: 20px;
     background-color: #ffffff;
+    background-image: linear-gradient(to bottom, #f8f9fa, #ffffff, #f8f9fa);
     line-height: 1.6;
     font-size: 1.3rem;
     border-style: none double none double; 
