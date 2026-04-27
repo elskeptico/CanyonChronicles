@@ -2,8 +2,7 @@
 - Mr. Hendee and alternate-universe 'Mr. Henry' get into fistfight
 - Teachers unable to understand newfangled 'krowm-books'
 - Teacher disappointed in student in record time|nxt yr?
-- 8th grade boy stubs toe, sues desk
-- Everyone gathers around to see fight solved peacefully without adult intervention
+- 8th grade boy stubs toe, attourney parents sue desk
 - Principal still terrifying
 - Onlookers disappointed to see fight defused peacefully
 - Science teacher unquestionably correct
@@ -21,4 +20,3 @@
 - Mr. Hendee blocks release of Condor Man files
 - Eighth-grade girl still unable to even
 - 20% of numbers no longer considered funny
-- Crowd gathers to see fight, revolt when it diffused peacefully
