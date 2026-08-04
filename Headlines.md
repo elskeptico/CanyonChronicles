@@ -1,11 +1,6 @@
 #Headlines
 - Mr. Hendee and alternate-universe 'Mr. Henry' get into fistfight
 - Teachers unable to understand newfangled 'krowm-books'
-- Teacher disappointed in student in record time|nxt yr?
-- 8th grade boy stubs toe, attourney parents sue desk
-- Principal still terrifying
-- Onlookers disappointed to see fight defused peacefully
-- Science teacher unquestionably correct
 - Declarations of unchanging rules and the changing of rules both very common
 - Student shocked to find that other people exist
 - Coloring with markers cardinal sin
@@ -14,9 +9,6 @@
 - "Nobody has felt this way before!"
 - Students unable to read minds, teacher frustrated
 - Group chat will always eventually devolve into lewd insults
-- Slurs more common than apologies
-- What to know about the FitnessGram pacer test
-- "Why, i have no idea why Blocksi isn't working!"
 - Mr. Hendee blocks release of Condor Man files
 - Eighth-grade girl still literally unable to even
 - 20% of numbers no longer considered funny
@@ -27,21 +19,30 @@
 - pizza for lunch! oh wait
 - PDA's weird and gross until you're part of them
 - bully ridicules self after finding it most lucrative available subject matter
-- track continues to just be run sport
-- golf added in an effort to make everyone obnoxious rich people
-- this tiktok dance going to be one that makes it big
-- student cannot remember what year war of 1812 started
 - student looks up, is shocked to see world outside phone
-- student on scratch is pretty sure he a hacker
 - eighth grader not confused, just horny
-- what are those kids really doing on their phones?
-    * pwning noobs lol gg ez
-    * blasting ALL the blocks
-    * 
 - eighth grader pretty damn sure he not main character
 - eighth grader pretty sure he main character
 - boy, girl stalk each other
 - relative lack of brainrot trends refreshing
 - student pretty sure he immortal
 - student for fairness unless it not in his favor
-- 
+- teacher disappointed in student after just one class period
+- Student thinks teacher just not applying herself
+- Canyon Middle Shoolers embarassed by typo in yearbook
+- Bomb detonated in center of quad goes largely unnoticed
+- Incoming sixth graders baffled by apparent lack of costumed mascots
+- Teacher just writes "???" instead of actually correcting work
+- Student who "dated" girl for two days listened to intently for relationship advice
+- Crying student had developed emotional connection to lost pencil
+- Canyon Middle School confirmed to be elaborate hoax | last one?
+- Bigoted student forgets which groups he's okay with
+- Everyone's tough until there's a fucking SPIDER
+- Neither member of couple entirely sure why they together
+- Condor Man, job lost to AI, now homeless
+- Student never learned what "rizz" means and is now too embarassed to ask
+- Wizened old ninth grader dispenses wisdom from on high
+- Lewd Paw Patrol pickup line somehow didn't do the trick
+- Student's pokemon card collection doesn't have the gravitas it once did
+- Student with Oreos suddenly very popular
+- Dramatic shushes louder than sound they're trying to mitigate
