@@ -67,3 +67,9 @@ header p {
 .center-text {
     text-align: center;
 }
+
+a {
+    color: #C10000;
+    text-decoration: none;
+    font-style: bold;
+}
